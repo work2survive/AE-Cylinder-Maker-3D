@@ -1,15 +1,15 @@
 # AE Cylinder Maker 3D (v1.4)
 
-[![Live Browser Simulator](https://img.shields.io/badge/Live%20Demo-AE%20ScriptUI%20Simulator-2c8cff?style=for-the-badge&logo=javascript)](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx)
+[![Live Browser Simulator](https://img.shields.io/badge/Live%20Demo-AE%20ScriptUI%20Simulator-2c8cff?style=for-the-badge&logo=javascript)](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx&autobuild=true)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CS6%20--%20CC%202026%2B-9999FF?style=for-the-badge&logo=adobeaftereffects)](https://www.adobe.com/products/aftereffects.html)
 [![Built with Antigravity](https://img.shields.io/badge/Built%20With-Antigravity-4285F4?style=for-the-badge&logo=google)](https://deepmind.google/)
 
-**Live Demo**: [https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx)
+**Live Demo**: [https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx&autobuild=true](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx&autobuild=true)
 
 A powerful, parametric Adobe After Effects ScriptUI panel that creates, configures, and dynamically rigs 3D Cylinders, circular sectors, and pie wedges built entirely out of native After Effects Shape Layers.
 
-> **Live Browser Simulator**: Test and preview this tool interactively in the [AE JS & ScriptUI Simulator](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx) directly in your web browser without launching After Effects!
+> **Live Browser Simulator**: Test and preview this tool interactively in the [AE JS & ScriptUI Simulator](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx&autobuild=true) directly in your web browser without launching After Effects!
 
 ---
 
