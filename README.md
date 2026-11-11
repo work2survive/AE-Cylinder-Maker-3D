@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CS6%20--%20CC%202026%2B-9999FF?style=for-the-badge&logo=adobeaftereffects)](https://www.adobe.com/products/aftereffects.html)
 
+**Live Demo**: [https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx)
+
 A powerful, parametric Adobe After Effects ScriptUI panel that creates, configures, and dynamically rigs 3D Cylinders, circular sectors, and pie wedges built entirely out of native After Effects Shape Layers.
 
 > **Live Browser Simulator**: Test and preview this tool interactively in the [AE JS & ScriptUI Simulator](https://work2survive.github.io/AE_JS_builder/?jsx=cylinder_maker.jsx) directly in your web browser without launching After Effects!
